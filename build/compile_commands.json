@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/misha/projects/test_strange_buffer/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -o CMakeFiles/test_buffer.dir/main.cpp.o -c /home/misha/projects/test_strange_buffer/main.cpp",
+  "file": "/home/misha/projects/test_strange_buffer/main.cpp"
+}
+]
